@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProject", "FinalProject.csproj", "{0BE3124D-6AE0-4BA8-A184-73233963D87E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3B39191-9841-46F3-8E68-926FF9BFCA76}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\pl.ico = ..\..\..\pl.ico
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{515A6F05-CA55-4E6B-8CA0-146DB11B8FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE3124D-6AE0-4BA8-A184-73233963D87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE3124D-6AE0-4BA8-A184-73233963D87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE3124D-6AE0-4BA8-A184-73233963D87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE3124D-6AE0-4BA8-A184-73233963D87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515A6F05-CA55-4E6B-8CA0-146DB11B8FF1}.Debug|Any CPU.ActiveCfg = Debug
+		{515A6F05-CA55-4E6B-8CA0-146DB11B8FF1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {406B97E8-1B57-492A-BE14-A95CE02D7945}
+	EndGlobalSection
+EndGlobal
